@@ -1,0 +1,56 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.local
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+Desktop.ini
+ehthumbs.db
+
+# Large video/media files (exceed GitHub 100MB limit)
+*.mov
+*.mp4
+*.avi
+*.mkv
+frontend/public/clips/
+frontend/src/assets/Clips/
+
+# Joblib model files (large binary) - keep tracked for demo
+# models/*.joblib
+
+# Parquet data files (large binary) - keep tracked for demo
+# data/**/*.parquet

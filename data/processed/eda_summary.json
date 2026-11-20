@@ -1,0 +1,113 @@
+{
+  "matrix_dimensions": {
+    "total_ratings": 60705,
+    "unique_users": 10000,
+    "unique_items": 78,
+    "total_possible_cells": 780000,
+    "sparsity_percentage": 92.217
+  },
+  "rating_distribution": {
+    "1.0": 3.97,
+    "2.0": 6.07,
+    "3.0": 14.92,
+    "4.0": 38.13,
+    "5.0": 36.91
+  },
+  "rating_counts": {
+    "1.0": 2413,
+    "2.0": 3684,
+    "3.0": 9058,
+    "4.0": 23145,
+    "5.0": 22405
+  },
+  "user_activity_percentiles": {
+    "p10": 3,
+    "p25": 4,
+    "median_p50": 6,
+    "p75": 8,
+    "p90": 9,
+    "p99_power_users": 10,
+    "max": 10,
+    "mean": 6.07
+  },
+  "category_distribution": {
+    "Footware": 15600,
+    "Clothing": 13180,
+    "Fashion-Accessories": 12931,
+    "Electronics": 11657,
+    "Sports Equipments": 7337
+  },
+  "top_reviewed_products": [
+    {
+      "item_id": 173,
+      "title": "Adidas FIFA World Cup Pro Match Seamless Football",
+      "category": "Sports Equipments",
+      "review_count": 1095,
+      "avg_rating": 3.94
+    },
+    {
+      "item_id": 107,
+      "title": "Men's Executive Pure Wool Notch Lapel Business Suit",
+      "category": "Clothing",
+      "review_count": 1076,
+      "avg_rating": 3.93
+    },
+    {
+      "item_id": 139,
+      "title": "Tom Ford Oud Wood Private Blend Eau de Parfum (50ml)",
+      "category": "Fashion-Accessories",
+      "review_count": 1076,
+      "avg_rating": 3.99
+    },
+    {
+      "item_id": 174,
+      "title": "Wilson US Open Extra Duty Championship Tennis Balls (3-Pack)",
+      "category": "Sports Equipments",
+      "review_count": 1059,
+      "avg_rating": 4.0
+    },
+    {
+      "item_id": 175,
+      "title": "Titleist Pro V1 Tour Precision Golf Balls (1 Dozen)",
+      "category": "Sports Equipments",
+      "review_count": 1056,
+      "avg_rating": 3.98
+    },
+    {
+      "item_id": 104,
+      "title": "Men's Smart Casual Linen Blazer & Chino Set",
+      "category": "Clothing",
+      "review_count": 1054,
+      "avg_rating": 3.96
+    },
+    {
+      "item_id": 178,
+      "title": "Gilbert Revolution Pro Match Rugby Ball",
+      "category": "Sports Equipments",
+      "review_count": 1044,
+      "avg_rating": 4.0
+    },
+    {
+      "item_id": 176,
+      "title": "Handcrafted Grade 1 English Willow Cricket Bat",
+      "category": "Sports Equipments",
+      "review_count": 1040,
+      "avg_rating": 3.98
+    },
+    {
+      "item_id": 106,
+      "title": "Classic Merino Ribbed V-Neck Sweater Vest",
+      "category": "Clothing",
+      "review_count": 1039,
+      "avg_rating": 3.96
+    },
+    {
+      "item_id": 140,
+      "title": "Bleu De Chanel Eau De Parfum Pour Homme (100ml)",
+      "category": "Fashion-Accessories",
+      "review_count": 1036,
+      "avg_rating": 3.97
+    }
+  ],
+  "mean_rating_overall": 3.98
+}

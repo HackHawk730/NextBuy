@@ -1,0 +1,10 @@
+{
+  "algorithm": "Matrix Factorization (ALS Explicit Feedback)",
+  "rmse": 1.4754,
+  "mae": 1.2987,
+  "rank": 12,
+  "max_iter": 8,
+  "reg_param": 0.08,
+  "train_duration_seconds": 17.17,
+  "total_records_trained": 60705
+}
